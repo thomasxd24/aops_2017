@@ -1,0 +1,6 @@
+
+LIBRARY aops
+EXPORTS
+        InitializeChangeNotify
+        PasswordChangeNotify
+        PasswordFilter
